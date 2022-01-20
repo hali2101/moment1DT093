@@ -14,8 +14,5 @@ Uppgiften består av dessa delar:
 * Lägga till en README.md-fil
 * Skriva denna uppgiftsbeskrivning
 
-Kommandot som behöver användas i terminalen/kommandotolken, för att klona detta repository: 
-
-git clone https://github.com/hali2101/moment1DT093.git
 
 > Written with [StackEdit](https://stackedit.io/).
